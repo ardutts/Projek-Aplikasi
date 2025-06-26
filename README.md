@@ -16,8 +16,18 @@ Strata Kopi merupakan aplikasi mobile berbasis Android yang dirancang untuk memb
 
 ## Teknologi yang Digunakan
 
+
 - Android Studio (Java)
 - Firebase Authentication & Firestore Database
 - Firebase Realtime Database & Cloud Storage
 - XML Layout (Material Design)
 - SharedPreferences (penyimpanan lokal ringan)
+
+  ## Dokumentasi
+
+  [image](https://github.com/user-attachments/assets/c96dfa19-cdeb-4150-ab2f-5ce8bb0347bf)
+  ![image](https://github.com/user-attachments/assets/84940ddb-8997-4831-8bf9-d4c1d920fa3b)
+  ![image](https://github.com/user-attachments/assets/837156a8-4072-473d-a243-ccaf36fc49cb)
+  ![image](https://github.com/user-attachments/assets/dd338b10-f0ee-4c48-88ce-0367ad41aaa7)
+
+
